@@ -2,7 +2,7 @@
 RFM analysis is a customer segmentation technique that is used to identify groups of customers based on their purchasing behavior. RFM stands for Recency, Frequency, and Monetary Value.
 
 Objective
-Complete RFM customer segmentation Analysis of AdventureWorks Cycle and Export the Dataset for future analysis.
+Complete RFM customer segmentation Analysis of AdventureWorks Cycle and Export the Dataset for future analysis. Tools used for this project are SQLServer, Python, PowerBI
 
 
 File	Description
