@@ -12,3 +12,7 @@ File	Description
 2) Cstrmr_seg_ntbk	--- Main file for writing python code for the Segmentation
 
 3) rfm_customer_segmented.csv  ------ Segmented Customer Data
+
+4) complete_customer_Rfm_data.csv ---- contains all fields from Cstmr_Dataset as well as rfm_customer_segmented.csv
+
+5) Cstmr_dashboard.pbix ----For creating this dashboard I used file of complete_customer_Rfm_data.csv(that we created earlier by merging 2files)[as mentioned in pt. 4)
